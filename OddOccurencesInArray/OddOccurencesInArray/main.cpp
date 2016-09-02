@@ -21,6 +21,7 @@ int main(int argc, char *argv[])
 
     vector<int> myVec = {9,3,9,3,9,7,9};
 
+    //description and result https://codility.com/demo/results/trainingKFKXZK-YBJ/
     cout<<solution(myVec)<<endl;
 
     return 0;
